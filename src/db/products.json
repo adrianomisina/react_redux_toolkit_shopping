@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13",
+    "description":"this is a description of the iPhone",
+    "price": 999.99,
+    "image": "https://images.unsplash.com/photo-1638038772924-ef79cce2426d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Tab S7",
+    "description": "this is a description of the Samsung",
+    "price": 549.99,
+    "image": "https://images.unsplash.com/photo-1620288650879-20db0eb38c05?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro 13-inch",
+    "description":"this is a description of the MacBook Pro 13-inch",
+    "price": 1299.99,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Logitech MX Master 3 Mouse",
+    "description": "this is a description of the Logitech MX Master 3 Mouse",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1633869724970-aa75f83b8a89?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "name": "Sony WH-1000XM4 Wireless Headphones",
+    "description": "this is a description of the Sony WH-1000XM4 Wireless Headphones",
+    "price": 349.99,
+    "image": "https://images.unsplash.com/photo-1628202926206-c63a34b1618f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "DJI Mavic Air 2 Drone",
+    "description": "this is a description of the DJI Mavic Air 2 Drone",
+    "price": 799.99,
+    "image": "https://images.unsplash.com/photo-1628054330565-7d42aa5ae1fa?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
